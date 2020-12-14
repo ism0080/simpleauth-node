@@ -1,0 +1,9 @@
+{
+  "name": "auth-node-dynamo-express",
+  "version": "1.0.0",
+  "description": "Simple auth api",
+  "main": "index.js",
+  "author": "Isaac Mackle",
+  "license": "MIT",
+  "private": true
+}
